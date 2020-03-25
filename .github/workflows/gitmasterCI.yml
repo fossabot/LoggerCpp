@@ -1,9 +1,9 @@
-name: build(D)
+name: build(M)
 
 on:
   push:
     branches:
-      - development
+      - master
 
 jobs:
   build-ubuntu:
